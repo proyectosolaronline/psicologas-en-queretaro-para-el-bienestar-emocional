@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://proyectosolaronline.github.io/psicologas-para-el-bienestar-emocional-queretaro/sitemap.xml
+Sitemap: https://proyectosolaronline.github.io/psicologas-en-queretaro-para-el-bienestar-emocional-queretaro/sitemap.xml
